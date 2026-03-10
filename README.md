@@ -1,4 +1,3 @@
-# ADV-Part1a-Compliance-Application
 <!DOCTYPE html>
 <html lang="en">
 <head>
